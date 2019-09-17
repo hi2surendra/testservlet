@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('pull') {
       steps {
-        echo 'pull'
+        echo 'pulling Suren'
       }
     }
   }
