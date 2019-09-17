@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('pull') {
+    stage('First') {
       steps {
         echo 'pulling Suren'
       }
